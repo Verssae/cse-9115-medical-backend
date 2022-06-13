@@ -24,3 +24,6 @@ $ pyinstaller --onefile server.py
 
 - 생성되는 md파일 경로는 실행파일 기준 현재폴더에서 "(환자이름)\_(생년)\_(월).md" 
 
+# 4. Examples
+
+- `220609`, `220610` 안 `*.html`
